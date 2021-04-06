@@ -1,0 +1,10 @@
+#lang scribble/manual
+@require[@for-label[codespells-live
+                    racket/base]]
+
+@title{codespells-live}
+@author{ThoughtSTEM}
+
+@defmodule[codespells-live]
+
+Package Description Here
